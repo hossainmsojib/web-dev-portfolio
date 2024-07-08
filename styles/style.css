@@ -54,6 +54,10 @@ nav ul li a{
     color: #474747;
 }
 
+.second-back{
+   background-color: #FFF8F3;
+}
+
 /* banner style */
 .banner-grettings{
     font-size: 45px;
@@ -79,6 +83,7 @@ nav ul li a{
 .banner-content{
     width: 617px;
     height: 351px;
+    margin-left: 134px;
 }
 
 /* header */
@@ -88,3 +93,124 @@ nav ul li a{
     background-position:top left,bottom right;
 }
 
+.section-info{
+border-radius: 10px;
+margin-top: 130px;
+text-align: center;
+padding-top: 131px ;
+padding-left: 156px;
+max-width: 827px;
+max-height: 318px;
+padding-bottom: 101px;
+padding-right: 157px;
+
+
+
+
+}
+
+.section-title{
+font-size: 35px;
+font-weight: bold;
+color: #181818;
+text-align: center;
+
+
+
+}
+/* main style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+.section-write{
+
+    font-size: 18px;
+    color: #757575;
+    text-align: center;
+    /* margin-left: 386px 387px; */
+}
+.title{
+    color: #474747;;
+}
+
+head{
+    max-width: 1600px;
+    height: 837px;
+}
+
+
+/* section list */
+.sectin-desh{
+    font: bold;
+    color: black;
+}
+.section-items{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 25.5px;
+
+
+}
+
+.section-item{
+
+}
+.section-headding{
+    
+    color: #757575;
+    font-family: "Open Sans", sans-serif;
+}
+
+.section-des{
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    margin-left: 345px 346px;
+    color: #757575; 
+    text-align: center;
+
+}
+.sections-title{
+    text-align: center;
+}
+
+/* section skill  */
+.section-skill{
+    margin-top: 231px;
+    
+
+}
+
+
+ 
+
+/* skill container */
+.skill-descr{
+    color: #757575;
+}
+.skills-design{
+    display: flex;
+    gap: 24px;
+} 
+.skill{
+    padding-top: 104px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    height: auto;
+    font-weight: 16px
+    ;
+    line-height: 28px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
+
+}
+
+main section{
+    margin-top:  130px;
+    margin-bottom: 170pxpx;
+}
+  
