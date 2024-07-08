@@ -213,4 +213,61 @@ main section{
     margin-top:  130px;
     margin-bottom: 170pxpx;
 }
-  
+
+/* resume section */
+.resume-container{
+    display: flex;
+    gap: 71px;
+}
+.resume{
+    font-family: "Open Sans", sans-serif;
+}
+.resume-column{
+    font-family: "Open Sans", sans-serif;
+}
+.experience{
+    font-family: "Open Sans", sans-serif;
+    max-width: 511px;
+    max-height: 175px;
+    margin-top: 30px;
+}
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.resume-column-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.experience-description{
+    font-size: 16px;
+    font-weight: 300;
+    color: #757575;
+}  
+.experience-subtitle{
+    font-size: 20px;
+    font-weight: normal;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume-title{
+    
+    
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    color: #181818;
+    text-align: center;
+   
+    
+}
+ /* .resume-title{
+    font-size: 35px;
+font-weight: bold;
+color: #181818;
+text-align: center;
+ } */
+  .shazib{
+    text-align: center;
+    margin-top: 50px;
+  }
